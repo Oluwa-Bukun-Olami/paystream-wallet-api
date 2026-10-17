@@ -1,0 +1,8 @@
+{
+  "name": "wallet-api",
+  "version": "1.0.0",
+  "main": "wallet-api.js",
+  "scripts": {
+    "start": "node wallet-api.js"
+  }
+}
